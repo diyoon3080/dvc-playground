@@ -1,2 +1,4 @@
 sklearn-model:
   path: sklearn_model
+tf-model:
+  path: tf_model
