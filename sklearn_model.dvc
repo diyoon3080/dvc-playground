@@ -1,0 +1,4 @@
+outs:
+- md5: c6bf3eb1dc079d921b8a12d1cdbd2dc4
+  size: 4234431
+  path: sklearn_model
