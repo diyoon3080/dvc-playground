@@ -1,3 +1,5 @@
+pytorch-model:
+  path: pytorch-model
 sklearn-model:
   path: sklearn_model
 tf-model:
