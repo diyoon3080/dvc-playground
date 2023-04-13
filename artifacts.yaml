@@ -1,3 +1,5 @@
+onnx-model:
+  path: onnx-model
 pytorch-model:
   path: pytorch-model
 sklearn-model:
